@@ -1,0 +1,8 @@
+{
+ "resourceMetadataKEY": "yes",
+ "stackLanguageKEY": "python",
+ "stackVersionNumberKEY": "v0-0-01",
+ "baseImageIDKEY": "1040-10-13710-fcr-osy-sd-aws-alp-bas-img-rep-sd:2023.07.12-1",
+ "operatingSystemNameKEY": "Alpine Linux",
+ "operatingSystemVersionNumberKEY": "3.18.2"
+}
